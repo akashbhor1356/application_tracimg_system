@@ -4,8 +4,6 @@ By <b>Akash Bhor</b>
 
 
 
-**Special Thanks to GitHub Sponsors**
-
 ## About The Project
 
 ![](https://github.com/KalyanM45/Application-Tracking-System/blob/main/Artifacts/screen.png)
