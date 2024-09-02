@@ -1,6 +1,6 @@
 # Application Tracking System 
 
-By [<b>Akash Bhor</b>
+By <b>Akash Bhor</b>
 
 
 
