@@ -1,6 +1,6 @@
 # Application Tracking System 
 
-By [<b>Hema Kalyan Murapaka</b>](https://hemakalyan.netlify.app)
+By [<b>Akash Bhor</b>
 
 
 
